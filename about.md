@@ -4,16 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-{{ content }}
-
-<h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
+<h3 class="fw-bold border-bottom pb-3 mb-5">Hobbies</h3>
 
 <div class="row g-5 mb-5">
   <div class="col-md-8">
-    <h4>Hobbies</h4>
     <p>
       In my free time:
-      - You'll most likely find me making matcha, drinking tea, or writing in a cafe
       - I have a community garden plot and excitedly await winter squash soup season
       - I recently joined a local climbing gym
       - I love hiking, backpacking, and camping
